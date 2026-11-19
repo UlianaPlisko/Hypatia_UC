@@ -1,0 +1,6 @@
+{
+  "scenario": "gen/",
+  "schedulers": "asap,zenith,priority,optimal",
+  "capacity": 1,
+  "out": "results/"
+}

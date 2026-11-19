@@ -1,0 +1,6 @@
+{
+  "scenario": "gen_dense/",
+  "schedulers": "asap,zenith,priority,optimal",
+  "capacity": 1,
+  "out": "results_dense/"
+}

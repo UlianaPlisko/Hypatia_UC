@@ -1,0 +1,32 @@
+{
+  "freq_hz": 2000000000.0,
+  "altitude_m": 600000.0,
+  "g_rx_dbi": 36.0,
+  "g_tx_dbi": 0.0,
+  "p_rx_min_dbm": -120.0,
+  "link_margin_db": 10.0,
+  "p_tx_max_dbm": 23.0,
+  "pa_efficiency": 0.3,
+  "p_circuit_w": 0.001,
+  "rate_bps": 1000.0,
+  "slot_s": 1.0,
+  "min_elevation_deg": 10.0,
+  "n_stations": 200,
+  "seed": 42,
+  "duration_s": 21600,
+  "step_s": 1.0,
+  "inclination_deg": 53.0,
+  "max_abs_lat": 50.0,
+  "cluster": [
+    45.0,
+    10.0,
+    3.0
+  ],
+  "bits_min": 1000,
+  "bits_max": 10000,
+  "energy_lo": 0.1,
+  "energy_hi": 1.0,
+  "out": "gen_dense/",
+  "mean_motion_rev_per_day": 14.89339511553388,
+  "worst_slot_energy_j": 0.22056714359423882
+}
